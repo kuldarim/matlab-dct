@@ -8,13 +8,6 @@
 % inImg   -   Input Gray Image
 % outImg  -   Output Halftoned Image
 
-%Author : Athi Narayanan S
-%Student, M.E, EST,
-%K.S.R College of Engineering
-%Erode, Tamil Nadu, India.
-%s_athi1983@yahoo.co.in
-%http://sites.google.com/site/athisnarayanan/
-
 function outImg  = floydHalftone(inImg)
 inImg = double(inImg);
 
